@@ -1,0 +1,6 @@
+.grid-container{
+    display: grid;
+    background-color: aliceblue;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+}
